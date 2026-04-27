@@ -1,4 +1,4 @@
-<h1 align="center">Harry Jay William C | Personal Portfolio Website</h1>
+<h1 align="center">Personal Portfolio Website</h1>
 
 <p align="center">
   <strong>A colourful static portfolio webpage developed by Harry Jay William C using HTML5 and CSS3.</strong>
