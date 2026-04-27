@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-This project is a static personal portfolio website created by Harry Jay William C for an HTML5 and CSS3 assignment. It showcases the developer profile, technical skills, selected projects, contact information, and embedded multimedia content of Harry Jay William C.
+This project is a basic static personal portfolio website created by Harry Jay William C for an HTML5 and CSS3 assignment. It showcases the developer profile, technical skills, selected projects, contact information, and embedded multimedia content of Harry Jay William C.
 
 The webpage is designed to be simple, readable, responsive, and visually colourful while demonstrating important front-end fundamentals.
 
